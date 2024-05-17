@@ -1,3 +1,7 @@
+This is simple stock screener using Nextjs typescript and turbo repo. Here I have used websocket and Stock API for fetching data from market.
+
+
+
 # Turborepo starter
 
 This is an official starter Turborepo.
